@@ -1,0 +1,38 @@
+.example-spacer {
+    flex: 1 1 auto;
+  }
+
+  .headerButton{
+    margin-left: 10px;
+  }
+
+  
+  table {
+    width: 100%;
+  }
+
+  .container{
+    max-width: 1200px;
+    margin: 0 auto;
+
+  }
+
+
+  .example-spacer {
+    flex: 1 1 auto;
+  }
+
+  .headerButton{
+    margin-left: 10px;
+  }
+
+  .Toolbar::after{
+    opacity: 0.5;
+  }
+  .page{
+    background-image: url('https://img.freepik.com/free-photo/blue-abstract-gradient-wave-wallpaper_53876-108364.jpg?w=1060&t=st=1659462137~exp=1659462737~hmac=f20dae3f00e1b73db4624a6ccd0ae380f5dd15a5d809e2cebfd9c44b6aa8f270');
+    background-size: 100%;
+    height: 100%;
+    width: 100%;
+    margin-top: -20px;
+  }
